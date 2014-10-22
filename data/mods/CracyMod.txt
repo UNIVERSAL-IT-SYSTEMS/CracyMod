@@ -1,0 +1,6 @@
+[config]
+name = "CracyMod"
+path = "CracyMod"
+guiname = "CracyMod"
+author = "Guard13007"
+description = "A Democracy 3 mod doing random things that may or may not make any sense what-so-ever."
